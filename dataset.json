@@ -1,0 +1,1323 @@
+[
+  {
+    "product_name": "Fresh Banana, Each",
+    "product_price": "$0.29",
+    "product_details": "Fresh, ripe bananas sold individually.",
+    "specifications": "Approximate weight: 0.3-0.5 lbs",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Strawberries, 1 lb",
+    "product_price": "$3.98",
+    "product_details": "Sweet and juicy strawberries, perfect for snacking or desserts.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Seedless Watermelon, Each",
+    "product_price": "$5.98",
+    "product_details": "Juicy, seedless watermelon, ideal for summer.",
+    "specifications": "Approximate weight: 8-12 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Fresh Red Seedless Grapes, Bag",
+    "product_price": "$4.48",
+    "product_details": "Sweet and crisp red seedless grapes, great for snacking.",
+    "specifications": "Weight: 2.25 lbs (estimated)",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Fresh Honeycrisp Apple, Each",
+    "product_price": "$1.28",
+    "product_details": "Crisp and sweet Honeycrisp apples, sold individually.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.6,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Gala Apples, 3 lb Bag",
+    "product_price": "$4.98",
+    "product_details": "Sweet and crunchy Gala apples in a convenient bag.",
+    "specifications": "Weight: 3 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Pineapple, Each",
+    "product_price": "$2.98",
+    "product_details": "Sweet and juicy pineapple, perfect for tropical dishes.",
+    "specifications": "Approximate weight: 2-3 lbs",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Fresh Blueberries, 1 Pint Container",
+    "product_price": "$3.88",
+    "product_details": "Fresh, plump blueberries, great for smoothies or snacks.",
+    "specifications": "Weight: 1 pint (approximately 12 oz)",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Fresh Red Cherries, 2.25 lb Bag",
+    "product_price": "$8.98",
+    "product_details": "Sweet and tart red cherries, perfect for snacking.",
+    "specifications": "Weight: 2.25 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Fresh Mangoes, Each",
+    "product_price": "$1.48",
+    "product_details": "Juicy and sweet mangoes, ideal for desserts or smoothies.",
+    "specifications": "Approximate weight: 0.5-0.7 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fresh Mandarin Oranges, 3 lb Bag",
+    "product_price": "$4.98",
+    "product_details": "Sweet and easy-to-peel mandarin oranges.",
+    "specifications": "Weight: 3 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Navel Oranges, 4 lb Bag",
+    "product_price": "$5.48",
+    "product_details": "Juicy and seedless navel oranges, great for juicing.",
+    "specifications": "Weight: 4 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Lemon, Each",
+    "product_price": "$0.68",
+    "product_details": "Tart and fresh lemons, perfect for cooking or beverages.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Fresh Hass Avocados, Each",
+    "product_price": "$1.28",
+    "product_details": "Creamy Hass avocados, ideal for guacamole or toast.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Marketside Fresh Organic Bananas, Bunch",
+    "product_price": "$1.98",
+    "product_details": "Organic bananas, naturally sweet and ripe.",
+    "specifications": "Approximate weight: 1.5-2 lbs",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Yellow Peach, Each",
+    "product_price": "$1.48",
+    "product_details": "Juicy and sweet yellow peaches, perfect for snacking.",
+    "specifications": "Approximate weight: 0.3-0.5 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Gala Apple, Each",
+    "product_price": "$0.98",
+    "product_details": "Crisp and sweet Gala apple, sold individually.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Marketside Pineapple, 16 oz Tray",
+    "product_price": "$4.98",
+    "product_details": "Pre-cut pineapple chunks, ready to eat.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Fresh Blueberries, 18 oz Container",
+    "product_price": "$5.48",
+    "product_details": "Large pack of fresh blueberries, ideal for baking.",
+    "specifications": "Weight: 18 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Fresh Yellow Mangoes, Each",
+    "product_price": "$1.68",
+    "product_details": "Sweet and juicy yellow mangoes, perfect for smoothies.",
+    "specifications": "Approximate weight: 0.5-0.7 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fresh Kiwi, Each",
+    "product_price": "$0.78",
+    "product_details": "Tart and sweet kiwi, great for snacking.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Raspberries, 6 oz Container",
+    "product_price": "$3.48",
+    "product_details": "Delicate and sweet raspberries, perfect for desserts.",
+    "specifications": "Weight: 6 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Sweet Corn on the Cob, Each",
+    "product_price": "$0.50",
+    "product_details": "Fresh, sweet corn on the cob, perfect for grilling or boiling.",
+    "specifications": "Approximate weight: 0.5-0.7 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Iceberg Lettuce, Each",
+    "product_price": "$1.98",
+    "product_details": "Crisp and fresh iceberg lettuce, ideal for salads or sandwiches.",
+    "specifications": "Approximate weight: 1-1.5 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Green Bell Pepper, Each",
+    "product_price": "$0.78",
+    "product_details": "Fresh green bell peppers, great for cooking or stuffing.",
+    "specifications": "Approximate weight: 0.3-0.5 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Fresh Sliced Baby Bella Mushrooms, 8 oz",
+    "product_price": "$2.48",
+    "product_details": "Pre-sliced baby bella mushrooms, perfect for sautéing.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Fresh Broccoli Crowns, Each",
+    "product_price": "$1.88",
+    "product_details": "Fresh broccoli crowns, ideal for steaming or stir-fry.",
+    "specifications": "Approximate weight: 0.8-1.2 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Cauliflower, Each",
+    "product_price": "$2.98",
+    "product_details": "Fresh cauliflower, great for roasting or mashing.",
+    "specifications": "Approximate weight: 1.5-2 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Roma Tomato, Each",
+    "product_price": "$0.48",
+    "product_details": "Firm and flavorful Roma tomatoes, perfect for sauces.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Fresh Green Asparagus, Bunch",
+    "product_price": "$3.48",
+    "product_details": "Freshly harvested green asparagus, great for grilling.",
+    "specifications": "Approximate weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Fresh Russet Potatoes, 5 lb Bag",
+    "product_price": "$3.98",
+    "product_details": "Versatile russet potatoes, ideal for baking or mashing.",
+    "specifications": "Weight: 5 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Fresh Cucumber, Each",
+    "product_price": "$0.68",
+    "product_details": "Crisp cucumbers, perfect for salads or snacking.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fresh Romaine Lettuce Hearts, 3 Count",
+    "product_price": "$3.28",
+    "product_details": "Fresh romaine lettuce hearts, great for Caesar salads.",
+    "specifications": "Count: 3, Approximate weight: 1 lb",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Carrots, 1 lb Bag",
+    "product_price": "$1.48",
+    "product_details": "Sweet and crunchy carrots, ideal for snacking or cooking.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Red Onion, Each",
+    "product_price": "$0.98",
+    "product_details": "Flavorful red onions, great for salads or grilling.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Fresh Zucchini, Each",
+    "product_price": "$0.88",
+    "product_details": "Fresh zucchini, perfect for stir-fry or baking.",
+    "specifications": "Approximate weight: 0.3-0.5 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Fresh Whole Brown Mushrooms, 8 oz",
+    "product_price": "$2.28",
+    "product_details": "Whole brown mushrooms, ideal for cooking or stuffing.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Broccoli Florets, 12 oz",
+    "product_price": "$3.48",
+    "product_details": "Pre-cut broccoli florets, ready for cooking.",
+    "specifications": "Weight: 12 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Cauliflower Florets, 12 oz",
+    "product_price": "$3.48",
+    "product_details": "Pre-cut cauliflower florets, perfect for roasting.",
+    "specifications": "Weight: 12 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "VILLAGE FARMS Campari Cocktail Tomato, 1 lb",
+    "product_price": "$3.98",
+    "product_details": "Greenhouse-grown, sweet Campari tomatoes.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Fresh Sweet Potatoes, 3 lb Bag",
+    "product_price": "$4.48",
+    "product_details": "Sweet and nutritious sweet potatoes, great for baking.",
+    "specifications": "Weight: 3 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Fresh Yellow Onion, Each",
+    "product_price": "$0.88",
+    "product_details": "Versatile yellow onions, ideal for cooking.",
+    "specifications": "Approximate weight: 0.4-0.6 lbs",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fresh Celery, Each",
+    "product_price": "$1.98",
+    "product_details": "Crisp celery stalks, great for soups or snacking.",
+    "specifications": "Approximate weight: 1-1.5 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Spinach, 10 oz Bag",
+    "product_price": "$2.98",
+    "product_details": "Fresh spinach leaves, perfect for salads or smoothies.",
+    "specifications": "Weight: 10 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Cilantro, Bunch",
+    "product_price": "$0.48",
+    "product_details": "Fresh cilantro, perfect for salsas and garnishes.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Italian Parsley, Bunch",
+    "product_price": "$0.48",
+    "product_details": "Fresh Italian parsley, ideal for cooking and garnishing.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Fresh Basil, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Sweet and aromatic basil, great for pesto or salads.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Fresh Mint, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Fresh mint leaves, perfect for beverages or desserts.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Fresh Cut Organic Thyme, 0.5 oz Clamshell",
+    "product_price": "$3.48",
+    "product_details": "Organic thyme, ideal for seasoning meats or vegetables.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Dill, Bunch",
+    "product_price": "$1.98",
+    "product_details": "Fresh dill, great for fish dishes or pickles.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Chives, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Mild and fresh chives, perfect for garnishing soups or salads.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Fresh Rosemary, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Aromatic rosemary, ideal for roasting or grilling.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Fresh Oregano, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Fresh oregano, great for Italian dishes or sauces.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Fresh Sage, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Earthy sage leaves, perfect for poultry or stuffing.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fieldpack Unbranded Cilantro Bag, 1 oz",
+    "product_price": "$1.48",
+    "product_details": "Fresh cilantro in a convenient bag, ideal for cooking.",
+    "specifications": "Weight: 1 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Organic Fresh Thyme, 0.5 oz",
+    "product_price": "$3.48",
+    "product_details": "Organic thyme, perfect for seasoning dishes.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Organic Potted Basil Green Live Plant, 1 Each",
+    "product_price": "$4.98",
+    "product_details": "Live basil plant, ideal for home growing and fresh use.",
+    "specifications": "Potted plant, approximate height: 8-12 inches",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Organic Potted Rosemary Green Live Plant, 1 Each",
+    "product_price": "$4.98",
+    "product_details": "Live rosemary plant, great for culinary use and home gardening.",
+    "specifications": "Potted plant, approximate height: 8-12 inches",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Organic Potted Mint Green Live Plant, 1 Each",
+    "product_price": "$4.98",
+    "product_details": "Live mint plant, perfect for fresh leaves in beverages or dishes.",
+    "specifications": "Potted plant, approximate height: 8-12 inches",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Fresh Curly Parsley, Bunch",
+    "product_price": "$0.48",
+    "product_details": "Fresh curly parsley, great for garnishing or cooking.",
+    "specifications": "Approximate weight: 0.2-0.3 lbs",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Tarragon, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Fresh tarragon, ideal for French cuisine or sauces.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Fresh Bay Leaves, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Fresh bay leaves, perfect for soups and stews.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Organic Potted Thyme Green Live Plant, 1 Each",
+    "product_price": "$4.98",
+    "product_details": "Live thyme plant, great for home gardening and cooking.",
+    "specifications": "Potted plant, approximate height: 8-12 inches",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Organic Potted Oregano Green Live Plant, 1 Each",
+    "product_price": "$4.98",
+    "product_details": "Live oregano plant, ideal for fresh herbs in cooking.",
+    "specifications": "Potted plant, approximate height: 8-12 inches",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Fresh Chervil, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Delicate chervil, great for French dishes or garnishes.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.0,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Marjoram, 0.5 oz Clamshell",
+    "product_price": "$2.98",
+    "product_details": "Fresh marjoram, perfect for Mediterranean dishes.",
+    "specifications": "Weight: 0.5 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Great Value Whole Vitamin D Milk, Gallon, 128 fl oz",
+    "product_price": "$3.98",
+    "product_details": "Rich and creamy whole milk, fortified with Vitamin D.",
+    "specifications": "Volume: 128 fl oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Large White Eggs, 18 Count",
+    "product_price": "$4.12",
+    "product_details": "Fresh large white eggs, perfect for baking or breakfast.",
+    "specifications": "Count: 18",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Great Value Shredded Cheddar Cheese, 16 oz",
+    "product_price": "$4.48",
+    "product_details": "Sharp cheddar cheese, shredded for convenience.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Yoplait Original Strawberry Yogurt, 6 oz, 4 Count",
+    "product_price": "$2.98",
+    "product_details": "Creamy strawberry yogurt, perfect for snacks.",
+    "specifications": "Weight: 6 oz per cup, Count: 4",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Great Value Salted Butter, 16 oz",
+    "product_price": "$3.78",
+    "product_details": "Creamy salted butter, ideal for cooking or spreading.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Large White Eggs, 12 Count",
+    "product_price": "$2.88",
+    "product_details": "Fresh large white eggs, versatile for any meal.",
+    "specifications": "Count: 12",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Cacique Crema Mexicana Agria, Sour Cream, 15 oz",
+    "product_price": "$3.48",
+    "product_details": "Rich and tangy Mexican-style sour cream.",
+    "specifications": "Weight: 15 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Great Value 2% Reduced Fat Milk, Gallon, 128 fl oz",
+    "product_price": "$3.88",
+    "product_details": "Reduced fat milk with a creamy taste, fortified with vitamins.",
+    "specifications": "Volume: 128 fl oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Great Value Mozzarella Cheese, Shredded, 16 oz",
+    "product_price": "$4.48",
+    "product_details": "Mild mozzarella cheese, shredded for pizzas or casseroles.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Great Value Greek Plain Yogurt, 32 oz",
+    "product_price": "$4.98",
+    "product_details": "Thick and creamy Greek yogurt, perfect for smoothies or dips.",
+    "specifications": "Weight: 32 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Great Value Large Brown Eggs, 12 Count",
+    "product_price": "$3.28",
+    "product_details": "Fresh large brown eggs, great for cooking or baking.",
+    "specifications": "Count: 12",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Cottage Cheese, 24 oz",
+    "product_price": "$3.98",
+    "product_details": "Creamy cottage cheese, ideal for snacks or recipes.",
+    "specifications": "Weight: 24 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Great Value Cream Cheese, 8 oz",
+    "product_price": "$2.48",
+    "product_details": "Smooth and spreadable cream cheese, perfect for bagels.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "bettergoods Plant-Based Cheddar Shreds, 8 oz",
+    "product_price": "$3.98",
+    "product_details": "Plant-based cheddar cheese alternative, dairy-free.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Great Value Heavy Whipping Cream, 16 fl oz",
+    "product_price": "$3.68",
+    "product_details": "Rich heavy whipping cream, ideal for desserts or sauces.",
+    "specifications": "Volume: 16 fl oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Organic Whole Vitamin D Milk, Half Gallon, 64 fl oz",
+    "product_price": "$4.48",
+    "product_details": "Organic whole milk, fortified with Vitamin D.",
+    "specifications": "Volume: 64 fl oz",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Nestle Toll House Chocolate Chip Cookie Dough, 16 oz",
+    "product_price": "$3.98",
+    "product_details": "Ready-to-bake chocolate chip cookie dough.",
+    "specifications": "Weight: 16 oz, Makes 12 cookies",
+    "rating": 4.6,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Great Value Skim Milk, Gallon, 128 fl oz",
+    "product_price": "$3.78",
+    "product_details": "Fat-free skim milk, fortified with vitamins A and D.",
+    "specifications": "Volume: 128 fl oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Great Value Sliced Swiss Cheese, 8 oz",
+    "product_price": "$2.98",
+    "product_details": "Mild Swiss cheese slices, perfect for sandwiches.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Yoplait Low Fat Kids Yogurt, Variety Pack, 8 Count",
+    "product_price": "$4.98",
+    "product_details": "Low-fat yogurt in kid-friendly flavors, fun and nutritious.",
+    "specifications": "Weight: 4 oz per cup, Count: 8",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Great Value Unsalted Butter, 16 oz",
+    "product_price": "$3.78",
+    "product_details": "Creamy unsalted butter, ideal for baking or cooking.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Large Brown Eggs, 18 Count",
+    "product_price": "$4.98",
+    "product_details": "Fresh large brown eggs, great for any recipe.",
+    "specifications": "Count: 18",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Great Value Golden Sweet Whole Kernel Corn, 15 oz",
+    "product_price": "$0.84",
+    "product_details": "Sweet whole kernel corn, perfect for side dishes or recipes.",
+    "specifications": "Weight: 15 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Spaghetti, 16 oz",
+    "product_price": "$1.12",
+    "product_details": "Classic spaghetti pasta, ideal for Italian dishes.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Heinz Tomato Ketchup, 32 oz Bottle",
+    "product_price": "$3.98",
+    "product_details": "Rich and tangy tomato ketchup, perfect for burgers and fries.",
+    "specifications": "Volume: 32 fl oz",
+    "rating": 4.6,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Hellmann's Real Mayonnaise, 30 fl oz Jar",
+    "product_price": "$4.48",
+    "product_details": "Creamy mayonnaise, gluten-free, great for sandwiches.",
+    "specifications": "Volume: 30 fl oz",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Great Value Concord Grape Jelly, 30 oz",
+    "product_price": "$2.98",
+    "product_details": "Sweet grape jelly, perfect for toast or PB&J sandwiches.",
+    "specifications": "Weight: 30 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Black Beans, 15 oz",
+    "product_price": "$0.92",
+    "product_details": "Versatile black beans, ideal for soups or tacos.",
+    "specifications": "Weight: 15 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Hamburger Helper Deluxe Beef Stroganoff Pasta, 5.5 oz Box",
+    "product_price": "$1.98",
+    "product_details": "Easy-to-prepare beef stroganoff pasta meal kit.",
+    "specifications": "Weight: 5.5 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Great Value Penne Pasta, 16 oz",
+    "product_price": "$1.12",
+    "product_details": "Penne pasta, great for hearty sauces or casseroles.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Great Value Diced Tomatoes, 14.5 oz",
+    "product_price": "$0.98",
+    "product_details": "Diced tomatoes, perfect for sauces or soups.",
+    "specifications": "Weight: 14.5 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "StarKist Light Tuna in Water, 2.6 oz Pouch",
+    "product_price": "$1.48",
+    "product_details": "Light tuna in water, great for salads or sandwiches.",
+    "specifications": "Weight: 2.6 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-871234567.jpg"
+  },
+  {
+    "product_name": "Great Value Creamy Peanut Butter, 40 oz",
+    "product_price": "$4.98",
+    "product_details": "Smooth and creamy peanut butter, perfect for spreads.",
+    "specifications": "Weight: 40 oz",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Bowties Pasta, 12 oz",
+    "product_price": "$1.12",
+    "product_details": "Bowtie pasta, ideal for salads or creamy sauces.",
+    "specifications": "Weight: 12 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Great Value Dijon Mustard, 12 oz",
+    "product_price": "$1.78",
+    "product_details": "Tangy Dijon mustard, great for sandwiches or dressings.",
+    "specifications": "Weight: 12 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Great Value Preserves, Strawberry, 18 oz",
+    "product_price": "$2.98",
+    "product_details": "Sweet strawberry preserves, perfect for breakfast.",
+    "specifications": "Weight: 18 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Great Value Chicken Noodle Soup, 10.5 oz",
+    "product_price": "$1.28",
+    "product_details": "Classic chicken noodle soup, ready to heat and serve.",
+    "specifications": "Weight: 10.5 oz",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Green Beans, 14.5 oz",
+    "product_price": "$0.94",
+    "product_details": "Cut green beans, perfect for casseroles or sides.",
+    "specifications": "Weight: 14.5 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "RITZ Fresh Stacks Original Crackers, 17.8 oz",
+    "product_price": "$3.98",
+    "product_details": "Crispy original crackers, perfect for snacking or dipping.",
+    "specifications": "Weight: 17.8 oz, 12 Multi Snack Packs",
+    "rating": 4.6,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Great Value Tomato Sauce, 15 oz",
+    "product_price": "$0.88",
+    "product_details": "Versatile tomato sauce, ideal for pasta or pizza.",
+    "specifications": "Weight: 15 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Great Value Kidney Beans, 15 oz",
+    "product_price": "$0.92",
+    "product_details": "Red kidney beans, great for chili or salads.",
+    "specifications": "Weight: 15 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Great Value Elbow Macaroni, 16 oz",
+    "product_price": "$1.12",
+    "product_details": "Classic elbow macaroni, perfect for mac and cheese.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Great Value Tuna, Chunk Light in Water, 5 oz",
+    "product_price": "$1.18",
+    "product_details": "Chunk light tuna in water, great for quick meals.",
+    "specifications": "Weight: 5 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Honey, 16 oz",
+    "product_price": "$3.48",
+    "product_details": "Pure honey, perfect for sweetening or baking.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "80% Lean / 20% Fat Ground Beef Chuck, 1 lb Tray",
+    "product_price": "$4.48",
+    "product_details": "Fresh, all-natural ground beef chuck, ideal for burgers or meatloaf.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Boneless, Skinless Chicken Breasts, 4.7-6.1 lb Tray",
+    "product_price": "$16.98",
+    "product_details": "Fresh boneless, skinless chicken breasts, perfect for grilling or baking.",
+    "specifications": "Weight: 4.7-6.1 lbs",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Wild Caught Cold Water Lobster Tails, 8 oz",
+    "product_price": "$14.98",
+    "product_details": "Premium wild-caught lobster tails, great for special occasions.",
+    "specifications": "Weight: 8 oz",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Great Value Frozen Peeled Tail-On Extra Large Shrimp, 12 oz",
+    "product_price": "$7.98",
+    "product_details": "Peeled, tail-on extra large shrimp, perfect for shrimp cocktails or stir-fry.",
+    "specifications": "Weight: 12 oz, 26-30 Count per lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Ribeye Steak, Choice Angus Beef, 1.5-2.65 lb",
+    "product_price": "$19.98",
+    "product_details": "Juicy Choice Angus ribeye steak, ideal for grilling.",
+    "specifications": "Weight: 1.5-2.65 lbs",
+    "rating": 4.6,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Boneless Pork Chops, 1.5 lb Tray",
+    "product_price": "$7.48",
+    "product_details": "Tender boneless pork chops, great for pan-frying or baking.",
+    "specifications": "Weight: 1.5 lbs",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Fresh Atlantic Salmon Fillet, 1 lb",
+    "product_price": "$9.98",
+    "product_details": "Fresh Atlantic salmon fillet, perfect for grilling or baking.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Bar S Classic Fully Cooked Franks, 8 Count, 12 oz",
+    "product_price": "$2.98",
+    "product_details": "Fully cooked hot dogs, great for grilling or quick meals.",
+    "specifications": "Weight: 12 oz, Count: 8",
+    "rating": 4.1,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Marketside Organic Grass-Fed Ground Beef, 85% Lean/15% Fat, 1 lb",
+    "product_price": "$7.98",
+    "product_details": "Organic grass-fed ground beef, ideal for healthier meals.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Great Value Ground Turkey, 93% Lean/7% Fat, 1 lb",
+    "product_price": "$4.28",
+    "product_details": "Lean ground turkey, perfect for tacos or burgers.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Boneless Skinless Chicken Thighs, 2.5-3.5 lb Tray",
+    "product_price": "$8.98",
+    "product_details": "Juicy boneless, skinless chicken thighs, great for grilling.",
+    "specifications": "Weight: 2.5-3.5 lbs",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Great Value Frozen Cooked Medium Peeled & Deveined Shrimp, 16 oz",
+    "product_price": "$8.48",
+    "product_details": "Cooked, peeled, and deveined shrimp, ready for quick meals.",
+    "specifications": "Weight: 16 oz, 41-60 Count per lb",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  },
+  {
+    "product_name": "Choice Angus Beef Sirloin Steak, 1.2-2.0 lb",
+    "product_price": "$12.98",
+    "product_details": "Tender Choice Angus sirloin steak, ideal for grilling.",
+    "specifications": "Weight: 1.2-2.0 lbs",
+    "rating": 4.5,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/34567890-3456-7890-3456-789034567890.jpg"
+  },
+  {
+    "product_name": "Great Value Bacon, Thick Sliced, 16 oz",
+    "product_price": "$4.98",
+    "product_details": "Thick-sliced bacon, perfect for breakfast or recipes.",
+    "specifications": "Weight: 16 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/45678901-4567-8901-4567-890145678901.jpg"
+  },
+  {
+    "product_name": "Fresh Tilapia Fillets, 1 lb",
+    "product_price": "$6.98",
+    "product_details": "Mild and flaky tilapia fillets, great for pan-searing.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/56789012-5678-9012-5678-901256789012.jpg"
+  },
+  {
+    "product_name": "Great Value Pork Sausage Patties, 24 oz",
+    "product_price": "$5.98",
+    "product_details": "Seasoned pork sausage patties, ideal for breakfast.",
+    "specifications": "Weight: 24 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/67890123-6789-0123-6789-012367890123.jpg"
+  },
+  {
+    "product_name": "Tyson Fully Cooked Chicken Nuggets, 32 oz (Frozen)",
+    "product_price": "$6.98",
+    "product_details": "Fully cooked chicken nuggets, perfect for quick meals.",
+    "specifications": "Weight: 32 oz",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/78901234-7890-1234-7890-123478901234.jpg"
+  },
+  {
+    "product_name": "Fresh Cod Fillets, 1 lb",
+    "product_price": "$8.98",
+    "product_details": "Fresh cod fillets, ideal for baking or frying.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/89012345-8901-2345-8901-234589012345.jpg"
+  },
+  {
+    "product_name": "Great Value Boneless Pork Loin, 2.5-3.5 lb",
+    "product_price": "$9.98",
+    "product_details": "Tender boneless pork loin, great for roasting.",
+    "specifications": "Weight: 2.5-3.5 lbs",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/90123456-9012-3456-9012-345690123456.jpg"
+  },
+  {
+    "product_name": "Great Value Frozen Breaded Fish Sticks, 24 oz",
+    "product_price": "$5.98",
+    "product_details": "Breaded fish sticks, perfect for quick family meals.",
+    "specifications": "Weight: 24 oz",
+    "rating": 4.2,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/01234567-0123-4567-0123-456701234567.jpg"
+  },
+  {
+    "product_name": "Johnsonville Smoked Sausage, Original, 14 oz",
+    "product_price": "$4.48",
+    "product_details": "Smoked sausage, perfect for grilling or skillet meals.",
+    "specifications": "Weight: 14 oz",
+    "rating": 4.4,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/12345678-1234-5678-1234-567812345678.jpg"
+  },
+  {
+    "product_name": "Fresh Catfish Fillets, 1 lb",
+    "product_price": "$7.98",
+    "product_details": "Fresh catfish fillets, ideal for frying or grilling.",
+    "specifications": "Weight: 1 lb",
+    "rating": 4.3,
+    "reviews": [],
+    "availability": "In stock",
+    "image_url": "https://i5.walmartimages.com/asr/23456789-2345-6789-2345-678923456789.jpg"
+  }
+]
+
